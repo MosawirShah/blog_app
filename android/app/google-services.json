@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608349043495",
+    "project_id": "my-blogger-app-f41ca",
+    "storage_bucket": "my-blogger-app-f41ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608349043495:android:cbfc9f5936eced38508702",
+        "android_client_info": {
+          "package_name": "com.safi.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608349043495-0n4lslild443c7i7ak6h2kts4jguk24t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHMltVWSK9m1B0WUtWIMAhcB95lOMAEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608349043495-0n4lslild443c7i7ak6h2kts4jguk24t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
